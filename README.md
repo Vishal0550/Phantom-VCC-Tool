@@ -1,5 +1,5 @@
-# Phantom CC Tool
-[-] Phantom Hacker CC Tools 
+# Phantom VCC Tool
+[-] Phantom Hacker VCC Tools 
 # Features
 > [&] Fast & easy 
 
