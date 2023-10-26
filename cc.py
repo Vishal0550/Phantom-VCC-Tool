@@ -30,6 +30,7 @@ def logo():
     return (gn + figlet)
 print (logo())
 print (bl + "[+] Powered by Phantom Hacker Team ")
+print (bl + "[+] Co-Powered by BlackFoxSecurityTeam ")
 print (gn + "[+] Made By Nord & CodeX") 
 print (cy + "[+] Tool Version : 1.2")
 
