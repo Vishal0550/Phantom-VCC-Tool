@@ -1,5 +1,5 @@
-# Fox CC
-[-] Black Fox CC Tools 
+# Phantom CC Tool
+[-] Phantom Hacker CC Tools 
 # Features
 > [&] Fast & easy 
 
@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/BlackFoxTM/Fox-CC
+git clone https://github.com/Vishal0550/Phantom-VCC-Tool
 ```
 ```
-cd Fox-CC
+cd Phantom-VCC-Tool
 ```
 ```
 pip3 install -r requirements.txt
